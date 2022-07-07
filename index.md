@@ -1,9 +1,10 @@
 [Home](index.md) | Register | Free Resources
 
-# Welcome to Accountability Buddy 
-update by pressing .
-<p>
+[LinkedIn]({{site.linkedin}})
 
+# Welcome to Accountability Buddy 
+
+<p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7I0nUEPtVT0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <p>
@@ -13,7 +14,7 @@ You can use the [editor on GitHub](https://github.com/RobDoyle2/accountabilitybu
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Increase Your Success Rate
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
