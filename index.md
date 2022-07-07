@@ -1,4 +1,6 @@
-## Welcome to Accountability Buddy 
+[Home](index.md) | Register | Free Resources
+
+# Welcome to Accountability Buddy 
 update by pressing .
 You can use the [editor on GitHub](https://github.com/RobDoyle2/accountabilitybuddy-jekyll/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
