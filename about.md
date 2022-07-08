@@ -1,6 +1,8 @@
 [Home](index.md) | [Register/Login](login.md) | [Resources](resources.md) | [About Us](about.md) | [Pricing](price.md)
 
-# My Story
+# ABOUT US
+
+## My Story
 <p>
 I’ve had issues with procrastination for many years and have had varying degrees of success with peer-to-peer accountability. It works very well for some and not for others. The issues I found were: 
 <p>
