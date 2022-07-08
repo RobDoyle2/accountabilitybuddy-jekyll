@@ -1,24 +1,9 @@
-[Home](index.md) | [Register/Login](login.md) | [Resources](resources.md) | [About Us](about.md) | [Pricing](price.md)
+[Home](index.md) | [Register/Login](login.md) | [Resources](resources.md) | [About Us](about.md)
 
 [LinkedIn]({{site.linkedin}})
 
-<p>
-Accountability is about taking responsibility for your own actions. It’s being held accountable to another person, or group of people. It has  helped numerous people from all walks of life with productivity, focus, and goal achieving.
-<p>
+# Welcome to Accountability Buddy 
 
-| Conscious Decision      | Success Rate |
-| :---        |    ----:   |
-| On its own      | 10-25%       |
-| + Clear Plan   | 50%        |
-| + commit to someone elsed   | 65%        |
-| + specific appointment to report to another person   | 95%        |
-<p>
-
-[Source: A study by the Association for Training and Development](https://www.entrepreneur.com/article/310062)
-<p>
-<p>
-
-# Welcome to Accountability Buddy
 Did you ever notice that you are more consistent getting something done if someone else knows about it? 
 - How’s the diet going? 
 - Is the website up? 
@@ -57,4 +42,38 @@ Initial call (free) to
 
 
 
+You can use the [editor on GitHub](https://github.com/RobDoyle2/accountabilitybuddy-jekyll/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Increase Your Success Rate
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RobDoyle2/accountabilitybuddy-jekyll/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
