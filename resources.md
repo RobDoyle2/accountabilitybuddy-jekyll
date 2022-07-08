@@ -1,6 +1,6 @@
 [Home](index.md) | [Register/Login](login.md) | [Resources](resources.md) | [About Us](about.md) | [Pricing](price.md)
 
-# RESOURCES
+# Resources
 
 Here we have a list of resources both internally hosted here and links to third party information. 
 <p>
