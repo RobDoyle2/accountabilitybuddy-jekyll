@@ -1,6 +1,6 @@
 [Home](index.md) | [Register/Login](login.md) | [Resources](resources.md) | [About Us](about.md) | [Pricing](price.md)
 
-# LOGIN
+# REGISTER / LOGIN
 
  ## Are you register with AccountabilityRob?
 <p>
