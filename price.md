@@ -17,6 +17,7 @@ Included in all packages is a 20min reassessment call every 2 months (give you a
 | Once per week   | $40 per month        | Text, Whatapp text, Whatsapp call (6-10mins)      |
 | Once per month   | $40 per month        | Text, Whatapp text, Whatsapp call (11-20mins)      |
 <p>
+the below is from https://github.github.com/gfm/#list-items  feck it!
 | foo | bar |
 | --- | --- |
 | baz | bim |
