@@ -1,6 +1,7 @@
 [Home](index.md) | [Register/Login](login.md) | [Resources](resources.md) | [About Us](about.md) | [Pricing](price.md)
 
 [LinkedIn]({{site.linkedin}})
+# HOME
 
 <p>
 Accountability is about taking responsibility for your own actions. It’s being held accountable to another person, or group of people. It has  helped numerous people from all walks of life with productivity, focus, and goal achieving.
