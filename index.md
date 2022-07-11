@@ -1,4 +1,4 @@
-[Home](index.md) | [Register/Login](login.md) | [Resources](resources.md) | [About Us](about.md) | [Pricing](price.md) |[Calendybooking](Calendybooking.md)
+[Home](index.md) | [Register/Login](login.md) | [Resources](resources.md) | [About Us](about.md) | [Pricing](price.md) |[Calendybooking](calendybooking.md)
 
 [LinkedIn]({{site.linkedin}})
 
