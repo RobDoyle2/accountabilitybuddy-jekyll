@@ -1,3 +1,8 @@
+---
+layout: home
+---
+
+
 [Home](index.md) | [Register/Login](login.md) | [Resources](resources.md) | [About Us](about.md) | [Pricing](price.md)
 
 [LinkedIn]({{site.linkedin}})
